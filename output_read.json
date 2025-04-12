@@ -1,0 +1,356 @@
+{
+    "read": {
+        "id_n": {
+            "required": "true",
+            "type": "float",
+            "category": "None",
+            "desc": "Unique positive numeric identifier for filing unit",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "Year": {
+            "required": "true",
+            "type": "float",
+            "category": "None",
+            "desc": "Assessment Year",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Food_Crops": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Food_Crops",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Processed_Food": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Processed_Food",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Fruits_Vegetables_Spices": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Fruits_Vegetables_Spices",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Fish": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Fish",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Meat": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Meat",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Poultry": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Poultry",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Dairy": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Dairy",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Beverages": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Beverages",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Alcohol": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Alcohol",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Tobacco": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Tobacco",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Other_Non_Consumption": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Other_Non_Consumption",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Rent": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Rent",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Electricity": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Electricity",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Water": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Water",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Fuel": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Fuel",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Other_Services": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Other_Services",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Telecom": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Telecom",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Soap_Cosmetics": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Soap_Cosmetics",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Other_Home_Consumption": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Other_Home_Consumption",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Books_Newspapers": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Books_Newspapers",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Health": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Health",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Education": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Education",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Transport_Services": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Transport_Services",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Air_Transport": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Air_Transport",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Accomodation": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Accomodation",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Entertainment": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Entertainment",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Finance": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Finance",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Clothing_Footwear": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Clothing_Footwear",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Furniture": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Furniture",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Durable_Goods": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Durable_Goods",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Vehicle_Purchase": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Vehicle_Purchase",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Other_Consumption": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Other_Consumption",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        },
+        "CONS_Religious_Consumption": {
+            "type": "float",
+            "category": "None",
+            "desc": "Household consumption of Consumption of Religious_Consumption",
+            "form": {
+                "2018": "National Household Survey 2018"
+            },
+            "cross_year": "No",
+            "attribute": "No"
+        }
+    }
+}

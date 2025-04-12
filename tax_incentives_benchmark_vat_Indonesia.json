@@ -1,0 +1,20 @@
+{
+    "policy": {
+    "_rate_Food_Crops": {"2022": [0.11]},
+    "_rate_Fruits_Vegetables_Spices": {"2022": [0.11]},
+    "_rate_Fish": {"2022": [0.11]},
+    "_rate_Meat": {"2022": [0.11]},
+    "_rate_Poultry": {"2022": [0.11]},
+    "_rate_Dairy": {"2022": [0.11]},
+    "_rate_Other_Non_Consumption": {"2022": [0.11]},
+    "_rate_Rent": {"2022": [0.11]},
+    "_rate_Water": {"2022": [0.11]},
+    "_rate_Health": {"2022": [0.11]},
+    "_rate_Education": {"2022": [0.11]},    
+    "_rate_Transport_Services": {"2022": [0.11]},
+    "_rate_Accomodation": {"2022": [0.11]},
+    "_rate_Entertainment": {"2022": [0.11]},
+    "_rate_Finance": {"2022": [0.11]},
+    "_rate_Religious_Consumption": {"2022": [0.11]}     
+    }
+}

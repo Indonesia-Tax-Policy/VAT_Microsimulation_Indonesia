@@ -1,0 +1,276 @@
+{
+    "calc": {
+        "vatax": {
+            "type": "float",
+            "category": "None",
+            "desc": "Total vat liability",
+            "form": {
+                "2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Food_Crops_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Food_Crops affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Processed_Food_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Processed_Food affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Fruits_Vegetables_Spices_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Fruits_Vegetables_Spices affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Fish_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Fish affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Meat_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Meat affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Poultry_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Poultry affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Dairy_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Dairy affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Beverages_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Beverages affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Alcohol_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Alcohol affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Tobacco_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Tobacco affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Other_Non_Consumption_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Other_Non_Consumption affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Rent_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Rent affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Electricity_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Electricity affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Water_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Water affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Fuel_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Fuel affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Other_Services_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Other_Services affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Telecom_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Telecom affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Soap_Cosmetics_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Soap_Cosmetics affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Other_Home_Consumption_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Other_Home_Consumption affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Books_Newspapers_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Books_Newspapers affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Health_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Health affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Education_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Education affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Transport_Services_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Transport_Services affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Air_Transport_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Air_Transport affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Accomodation_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Accomodation affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Entertainment_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Entertainment affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Finance_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Finance affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Clothing_Footwear_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Clothing_Footwear affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Furniture_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Furniture affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Durable_Goods_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Durable_Goods affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Vehicle_Purchase_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Vehicle_Purchase affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Other_Consumption_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Other_Consumption affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        },
+        "CONS_Religious_Consumption_behavior": {
+            "type": "float",
+            "Category": "None",
+            "desc": "Consumption of Religious_Consumption affected by behavior",
+            "form": {
+                "susenas 2018": "National Household Survey 2018"
+            }
+        }
+    }
+}
