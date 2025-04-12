@@ -1,0 +1,28 @@
+{
+  "1": {
+    "selected_item": "elasticity_consumption_value",
+    "selected_value": [
+      [
+        "0.5",
+        "0.4",
+        "0.3"
+      ]
+    ],
+    "selected_year": [
+      "2022"
+    ]
+  },
+  "2": {
+    "selected_item": "elasticity_consumption_threshold",
+    "selected_value": [
+      [
+        30000000,
+        65000000,
+        9e+99
+      ]
+    ],
+    "selected_year": [
+      "2022"
+    ]
+  }
+}

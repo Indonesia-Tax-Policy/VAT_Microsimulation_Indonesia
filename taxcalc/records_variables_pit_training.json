@@ -1,0 +1,98 @@
+{
+  "read": {
+    "id_n": {
+      "required": true,
+      "type": "int",
+      "desc": "Unique positive numeric identifier for filing unit",
+      "form": {
+        "2018": "Private Info"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    },
+    "Year": {
+      "required": true,
+      "type": "int",
+      "desc": "Assessment Year",
+      "form": {
+        "2018": "private info"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    },
+    "income_wage_l": {
+      "type": "float",
+      "desc": "Gross income from Salary, other personal income based on employment and pensions",
+      "form": {
+        "2018": "pit_training"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    },
+    "income_dividends_c": {
+      "type": "float",
+      "desc": "Gross income from Dividends and other income earned by participating in the profit ",
+      "form": {
+        "2018": "pit_training"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    },
+    "income_interest_c": {
+      "type": "float",
+      "desc": "Gross income from Interest on loans, bonds and other securities ",
+      "form": {
+        "2018": "pit_training"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    },
+    "pitax1": {
+      "type": "float",
+      "desc": "dummy tax calculation",
+      "form": {
+        "2018": "pit_training"
+      },
+      "cross_year": "No",
+      "attribute": "No"
+    }    
+    
+  },
+  "calc": {
+    "capital_income": {
+      "type": "float",
+      "desc": "Capital Income = dividend + interest income",
+      "form": {
+        "2018": "pit_training"
+      }
+    },
+    "total_gross_income": {
+      "type": "float",
+      "desc": "Gross Total Income (GTI) (gross_i_w + gross_i_l + gross_i_c)", 
+      "form": {
+        "2018": "pit_training"
+      }
+    },
+    "pitax_c": {
+      "type": "float",
+      "desc": "PIT for Capital Income", 
+      "form": {
+        "2018": "pit_training"
+      }
+    },
+    "pitax_w": {
+      "type": "float",
+      "desc": "PIT for Wage Income",
+      "form": {
+        "2018": "pit_training"
+      }
+    },
+    "pitax": {
+      "type": "float",
+      "desc": "PIT liability",
+      "form": {
+        "2018": "pit_training"
+      }
+    }
+  }
+}
