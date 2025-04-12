@@ -1,0 +1,1454 @@
+{
+    "policy": {
+        "_Rate_KODE_2_Rice_local_rice_premium_quality_imported": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_3_Glutinous_rice": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_4_Wet_corn_with_husk": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_5_Shelled_corncorn_ricecrushed_corn": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_6_Wheat_flour": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_7_Other_cereals": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_9_Cassava": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_10_Sweet_potato": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_11_Sago_not_from_cassava": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_12_Taro": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_13_Potato": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_14_Dried_cassava": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_15_Other_tubers": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_17_Yellowtail": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_18_Mackerel_tuna_skipjack_scad_dried_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_19_Spanish_mackerel": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_20_Selar_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_21_Mackerel_lematatare_banyarbanyara": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_22_Anchovy": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_23_Milkfish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_24_Snakehead_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_25_Tilapia": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_26_Carp_Nile_tilapia": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_27_Catfish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_28_Snapper": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_29_Rabbitfish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_30_Pangasius": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_31_Pomfret": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_32_Gourami": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_33_Other_freshwet_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_34_Shrimp_lobster": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_35_Squid_cuttlefish_octopus": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_36_Crab_mud_crab_blue_crab": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_37_Shellfish_snail_escargot_mussel": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_38_Other_fresh_shrimp_and_aquatic_animals": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_39_Preserved_mackerelsalted_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_40_Preserved_Spanish_mackerel": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_41_Preserved_mackereltunaskipjack": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_42_Preserved_anchovy": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_43_Preserved_selar_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_44_Preserved_sepat_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_45_Preserved_milkfish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_46_Preserved_snakehead_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_47_Canned_fish_sardines_canned_tuna_etc": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_48_Other_preserved_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_49_Preserved_shrimp_dried_shrimp_small_shrimp": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_50_Preserved_squid_cuttlefish_octopus": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_51_Preserved_shrimp_and_other_aquatic_animals": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_53_Beef": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_54_Goat_meat_lamb": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_55_Pork": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_56_Broiler_chicken_meat": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_57_Freerange_chicken_meat": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_58_Other_fresh_meat": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_59_Other_preserved_meat": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_60_Trimmings_brisket": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_61_Others_liver_offal_ribs_feet_tail_head_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_63_Broiler_chicken_eggs": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_64_Freerange_chicken_eggs": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_65_Duck_eggsManila_duck_eggs": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_66_Other_eggs_quail_eggs_salted_eggs_raw_or_cooked_turtle_eggs_goose_eggs_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_67_Factoryproduced_liquid_milk": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_68_Sweetened_condensed_milk": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_69_Powdered_milk": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_70_Baby_formula": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_71_Other_milk_and_dairy_products": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_73_Spinach": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_74_Water_spinach": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_75_Cabbage": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_76_Chinese_cabbage_petsai": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_77_Green_mustard": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_78_Green_beans": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_79_Long_beans": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_80_Vegetable_tomatoes_cherry_tomatoes": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_81_Carrot": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_82_Cucumber": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_83_Cassava_leaves": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_84_Eggplant": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_85_Bean_sprouts": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_86_Pumpkin_chayote_winter_melon": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_87_Soupcap_caykimlo_vegetable_ingredients_package": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_88_Sour_vegetable_souplodeh_ingredients_package": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_89_Young_jackfruit": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_90_Green_papaya": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_91_Jengkol_beans": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_92_Shallots": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_93_Garlic": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_94_Red_chili": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_95_Green_chili": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_96_Birds_eye_chili": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_97_Other_vegetables": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_99_Shelled_peanuts": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_100_Soybeans": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_101_Other_beans": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_102_Tofu": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_103_Tempeh": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_104_Oncom": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_105_Other_legume_products": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_107_Orange_pomelo": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_108_Mango": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_109_Apple": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_110_Rambutan": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_111_Duku_langsat": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_112_Durian": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_113_Salak": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_114_Ambon_banana": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_115_Other_bananas": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_116_Papaya": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_117_Watermelon": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_118_Tomato_fruit": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_119_Other_fruits": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_121_Coconut_oil": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_122_Cooking_oil_palm_oil_sunflower_oil": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_123_Coconut_excluding_instant_coconut_milk": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_124_Other_oils_and_coconut_products": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_126_Granulated_sugar": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_127_Palm_sugar_liquid_sugar_from_aren_palm_coconut_lontar_palm": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_128_Tea_powder": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_129_Tea_bags_sachet": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_130_Coffee_ground_beans": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_131_Instant_coffee_sachet": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_132_Other_beverage_ingredients": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_134_Salt": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_135_Candlenut": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_136_Coriandercumin": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_137_Pepper": {
+            "2022": [
+                0.012
+            ]
+        },
+        "_Rate_KODE_138_Tamarind": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_139_Shrimp_pastefish_paste": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_140_Soy_sauce": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_141_Flavor_enhancerMSG": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_142_Readymade_chili_sauce": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_143_Tomato_sauce": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_144_Readymadepackaged_seasoning_spice_mix": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_145_Other_kitchen_spices_nutmeg_ginger_turmeric_etc": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_147_Instant_noodles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_148_Crackers": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_149_Packaged_baby_food": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_150_Others": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_152_White_bread": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_153_Sweet_bread_other_breads": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_154_Cookies_biscuits_semprong": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_155_Wet_cakes_layer_cake_bika_ambon_lemper_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_156_Fried_snacks": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_157_Mung_bean_porridge": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_158_Gadogado_ketoprak_pecel": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_159_Mixed_ricerames": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_160_Fried_rice": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_161_White_rice": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_162_Rice_cake_with_vegetable_soup": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_163_Soto_gule_soup_rawon_cincang": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_164_Cooked_vegetables_sauteed_with_coconut_milk_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_165_Satay_tongseng": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_166_Meatball_noodles_boiled_noodles_fried_noodles": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_167_Instant_noodles": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_168_Childrens_snacks_crackerschips": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_169_Cooked_fish": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_170_Cooked_chickenmeat_fried_chicken_rendang_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_171_Processed_meat_sausages_nuggets_smoked_meat_etc_cooked": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_172_Chicken_porridge": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_173_Siomay_batagor": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_174_Other_prepared_foods": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_175_Bottled_water": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_176_Gallon_bottled_water": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_177_Bottled_tea_carbonated_drinksCO2containing_drinks": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_178_Packaged_fruit_juice_health_drinks_energy_drinks": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_179_Readytodrink_beverages_coffee_coffee_with_milk_tea_chocolate_milk_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_180_Ice_cream": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_181_Other_ice_products": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_182_Alcoholic_beverages": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_184_Filter_clove_cigarettes": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_185_Nonfilter_clove_cigarettes": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_186_White_cigarettes": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_187_Tobacco": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_188_Other_cigarettes_and_tobacco_products": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_190_Status_of_occupied_residential_building_ownership": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_191_Estimated_rent_for_own_houserentfree": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_192_House_contract": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_193_House_rent": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_194_Official_residence_or_others": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_195_House_maintenance_and_minor_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_196_Amount_kWh_of_electricity_usage": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_197_Electricity": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_198_Amount_of_water_usage_PAMCarriedbought": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_199_Water_PAMCarriedbought": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_200_Type_of_fuel_oil_for_generator": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_201_Amount_of_fuel_oil_usage_for_generator": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_202_Fuel_oil_for_generator": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_203_Amount_of_lubricating_oil_usage_for_generator": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_204_Lubricating_oil_for_generator": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_205_Generator_maintenance_and_repair": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_206_Amount_of_gasoline_usage_premium_pertalite_pertamax_shell_total_etc_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_207_Gasoline_premium_pertalite_pertamax_shell_total_etc_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_208_Amount_of_diesel_usage_including_shell_diesel_performance_diesel_etc_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_209_Diesel_including_shell_diesel_performance_diesel_etc_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_210_Amount_of_kerosene_usage_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_211_Kerosene_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_212_Amount_of_lubricating_oil_usage_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_213_Lubricating_oil_for_motor_vehicles": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_214_Motor_vehicle_repair_and_maintenance": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_215_Amount_of_LPG_usage": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_216_LPG": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_217_Amount_of_city_gas_usage": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_218_City_gas": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_219_Amount_of_kerosene_usage_for_other_purposes": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_220_Kerosene_for_other_purposes": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_221_Amount_of_charcoalcoalbriquette_usage": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_222_Charcoalcoalbriquette": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_223_Biogas": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_224_Firewood_and_other_fuels": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_225_Other_household_needs_expenditure": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_226_Home_phone_bill": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_227_Mobile_phone_credit": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_228_Postal_items_money_order_stamp_duty_postage_stamps_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_229_Internet_costs_internet_cafe": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_230_Others_SIM_card_internet_cafe_package_delivery_etc": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_232_Bath_soap_toothpaste_toothbrush_and_shampoo": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_233_Beauty_products_and_sanitary_napkins": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_234_Skin_face_nail_hair_care": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_235_Laundry_soap_bar_powder_cream_and_liquid": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_236_Clothing_maintenance_materials": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_237_Newspapers_magazines_books_and_stationery_including_magazinereading_rentals": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_238_Other_items_tissue_diapers_plastic_bags_plastic_ropestring_toothpicks_cotton_buds_mothballs_satay_skewers": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_239_Government_hospital": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_240_Private_hospital": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_241_Community_health_centersubhealth_centervillage_maternity_postintegrated_service_post": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_242_Doctors_practicepolyclinic": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_243_Health_workers_practice_midwifenursemedical_assistant": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_244_Traditional_medicine_practice": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_245_Traditional_birth_attendant": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_246_Medicines_bought_with_prescriptions_from_health_workers_doctors_midwives_nurses": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_247_Modern_medicines_bought_without_prescriptions_from_health_workers": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_248_Traditional_medicineherbal_medicine_for_treatment": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_249_Maintenance_costs_for_glasses_prosthetic_limbs_and_wheelchairs": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_250_Pregnancy_checkup": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_251_Immunization": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_252_Health_testearly_detectionMedical_CheckUp": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_253_Family_Planning_contraceptive_methodsdevices_consultation_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_254_Other_health_maintenance_costs": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_255_School_development_contribution_entrance_fee": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_256_School_fees_SPPUKT_and_school_committeeparentteacher_association_fees": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_257_Other_school_fees_skills_tutoring_tests": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_258_Textbooks_photocopies_of_study_materials": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_259_Stationery_pens_pencils_erasers_calculators_compasses": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_260_Nonschool_coursetutoring_fees": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_261_Land_transportation": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_262_Air_transportationairplane": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_263_Sea_transportationferry_ship": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_264_Others_parking_fees_toll_tickets_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_265_Hotelmotellodging": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_266_Entertainment_excluding_transportation_and_purchase_of_goods_for_recreation": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_267_Salarywages_for_household_helpers_security_guards_gardeners_and_drivers": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_268_Financial_institution_services_ATM_services_credit_card_services_transfer_fees": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_269_Other_services_rounding_of_ID_card_drivers_license_birth_certificate_photocopying_photo_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_271_Readymade_clothes_for_adult_males": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_272_Readymade_clothes_for_adult_females": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_273_Readymade_clothes_for_children": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_274_Clothing_materials_for_boys_girls_and_children": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_275_Tailoring_fees_clothing_repair_sewing_thread_and_other_sewing_needs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_276_Footwear_shoes_sandals_socks_etc": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_277_Headwear_for_men_women_and_children": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_278_Others_towels_belts_shoe_polish_ties_laundry_clothes_hangers_prayer_veils_raincoats_etc": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_280_Furniture": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_281_Household_equipment": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_282_Household_furnishings": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_283_Household_tools": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_284_Kitchendining_utensils": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_285_Decorative_itemsornaments": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_286_Repair_of_furniture_equipment_and_household_tools": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_287_Purchase_of_mobile_phonessmartphones_and_accessories_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_288_Purchase_of_cameras_glasses_video_cameras_other_optical_devices_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_289_Purchase_of_watches_clocks_umbrellas_bags_suitcases_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_290_Expensive_jewelry_made_of_precious_metals_and_gems_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_291_Purchase_of_childrens_toys": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_292_Purchase_of_television_radio_video_DVD_cassette_radio_cassette_pianoorgan_computer_laptop_tablet_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_293_Purchase_of_sports_equipment_and_gear_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_294_Purchase_of_vehicles_for_transportation": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_295_Pets_and_plants_including_maintenance_costs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_296_Other_durable_goods_including_repairs": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_298_Land_and_building_tax_PBB": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_299_Motor_and_nonmotor_vehicle_tax_STNK": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_300_Leviesretributions_neighborhoodcommunity_fees_garbage_security_cemetery_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_301_Health_insurance": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_302_Other_life_insurance_and_loss_insurance": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_303_Others_traffic_tickets_income_tax_etc": {
+            "2022": [
+                0.0
+            ]
+        },
+        "_Rate_KODE_305_Wedding": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_306_Circumcision_and_birthday": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_307_Religious_holiday_celebrations": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_308_Hajj_pilgrimage_organization_fee_BPIH_umrah_spiritual_journey": {
+            "2022": [
+                0.006
+            ]
+        },
+        "_Rate_KODE_309_Other_religious_or_traditional_ceremonies": {
+            "2022": [
+                0.12
+            ]
+        },
+        "_Rate_KODE_310_Funeral_costs": {
+            "2022": [
+                0.0
+            ]
+        }
+    }
+}
