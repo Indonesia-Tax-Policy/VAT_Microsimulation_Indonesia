@@ -1,0 +1,1854 @@
+{
+    "_rate_Food_Crops": {
+        "long_name": "VAT Rate for Consumption of Food_Crops",
+        "description": "VAT Rate relevant for consumption of Consumption of Food_Crops",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Processed_Food": {
+        "long_name": "VAT Rate for Consumption of Processed_Food",
+        "description": "VAT Rate relevant for consumption of Consumption of Processed_Food",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fruits_Vegetables_Spices": {
+        "long_name": "VAT Rate for Consumption of Fruits_Vegetables_Spices",
+        "description": "VAT Rate relevant for consumption of Consumption of Fruits_Vegetables_Spices",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fish": {
+        "long_name": "VAT Rate for Consumption of Fish",
+        "description": "VAT Rate relevant for consumption of Consumption of Fish",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Meat": {
+        "long_name": "VAT Rate for Consumption of Meat",
+        "description": "VAT Rate relevant for consumption of Consumption of Meat",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Poultry": {
+        "long_name": "VAT Rate for Consumption of Poultry",
+        "description": "VAT Rate relevant for consumption of Consumption of Poultry",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Dairy": {
+        "long_name": "VAT Rate for Consumption of Dairy",
+        "description": "VAT Rate relevant for consumption of Consumption of Dairy",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Beverages": {
+        "long_name": "VAT Rate for Consumption of Beverages",
+        "description": "VAT Rate relevant for consumption of Consumption of Beverages",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Alcohol": {
+        "long_name": "VAT Rate for Consumption of Alcohol",
+        "description": "VAT Rate relevant for consumption of Consumption of Alcohol",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Tobacco": {
+        "long_name": "VAT Rate for Consumption of Tobacco",
+        "description": "VAT Rate relevant for consumption of Consumption of Tobacco",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Non_Consumption": {
+        "long_name": "VAT Rate for Consumption of Other_Non_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Non_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Rent": {
+        "long_name": "VAT Rate for Consumption of Rent",
+        "description": "VAT Rate relevant for consumption of Consumption of Rent",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Electricity": {
+        "long_name": "VAT Rate for Consumption of Electricity",
+        "description": "VAT Rate relevant for consumption of Consumption of Electricity",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Water": {
+        "long_name": "VAT Rate for Consumption of Water",
+        "description": "VAT Rate relevant for consumption of Consumption of Water",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fuel": {
+        "long_name": "VAT Rate for Consumption of Fuel",
+        "description": "VAT Rate relevant for consumption of Consumption of Fuel",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Services": {
+        "long_name": "VAT Rate for Consumption of Other_Services",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Services",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Telecom": {
+        "long_name": "VAT Rate for Consumption of Telecom",
+        "description": "VAT Rate relevant for consumption of Consumption of Telecom",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Soap_Cosmetics": {
+        "long_name": "VAT Rate for Consumption of Soap_Cosmetics",
+        "description": "VAT Rate relevant for consumption of Consumption of Soap_Cosmetics",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Home_Consumption": {
+        "long_name": "VAT Rate for Consumption of Other_Home_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Home_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Books_Newspapers": {
+        "long_name": "VAT Rate for Consumption of Books_Newspapers",
+        "description": "VAT Rate relevant for consumption of Consumption of Books_Newspapers",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Health": {
+        "long_name": "VAT Rate for Consumption of Health",
+        "description": "VAT Rate relevant for consumption of Consumption of Health",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Education": {
+        "long_name": "VAT Rate for Consumption of Education",
+        "description": "VAT Rate relevant for consumption of Consumption of Education",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Transport_Services": {
+        "long_name": "VAT Rate for Consumption of Transport_Services",
+        "description": "VAT Rate relevant for consumption of Consumption of Transport_Services",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Air_Transport": {
+        "long_name": "VAT Rate for Consumption of Air_Transport",
+        "description": "VAT Rate relevant for consumption of Consumption of Air_Transport",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Accomodation": {
+        "long_name": "VAT Rate for Consumption of Accomodation",
+        "description": "VAT Rate relevant for consumption of Consumption of Accomodation",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Entertainment": {
+        "long_name": "VAT Rate for Consumption of Entertainment",
+        "description": "VAT Rate relevant for consumption of Consumption of Entertainment",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Finance": {
+        "long_name": "VAT Rate for Consumption of Finance",
+        "description": "VAT Rate relevant for consumption of Consumption of Finance",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Clothing_Footwear": {
+        "long_name": "VAT Rate for Consumption of Clothing_Footwear",
+        "description": "VAT Rate relevant for consumption of Consumption of Clothing_Footwear",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Furniture": {
+        "long_name": "VAT Rate for Consumption of Furniture",
+        "description": "VAT Rate relevant for consumption of Consumption of Furniture",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Durable_Goods": {
+        "long_name": "VAT Rate for Consumption of Durable_Goods",
+        "description": "VAT Rate relevant for consumption of Consumption of Durable_Goods",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Vehicle_Purchase": {
+        "long_name": "VAT Rate for Consumption of Vehicle_Purchase",
+        "description": "VAT Rate relevant for consumption of Consumption of Vehicle_Purchase",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Consumption": {
+        "long_name": "VAT Rate for Consumption of Other_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Religious_Consumption": {
+        "long_name": "VAT Rate for Consumption of Religious_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Religious_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Food_Crops_curr_law": {
+        "long_name": "VAT Rate for Consumption of Food_Crops",
+        "description": "VAT Rate relevant for consumption of Consumption of Food_Crops",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Processed_Food_curr_law": {
+        "long_name": "VAT Rate for Consumption of Processed_Food",
+        "description": "VAT Rate relevant for consumption of Consumption of Processed_Food",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fruits_Vegetables_Spices_curr_law": {
+        "long_name": "VAT Rate for Consumption of Fruits_Vegetables_Spices",
+        "description": "VAT Rate relevant for consumption of Consumption of Fruits_Vegetables_Spices",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fish_curr_law": {
+        "long_name": "VAT Rate for Consumption of Fish",
+        "description": "VAT Rate relevant for consumption of Consumption of Fish",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Meat_curr_law": {
+        "long_name": "VAT Rate for Consumption of Meat",
+        "description": "VAT Rate relevant for consumption of Consumption of Meat",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Poultry_curr_law": {
+        "long_name": "VAT Rate for Consumption of Poultry",
+        "description": "VAT Rate relevant for consumption of Consumption of Poultry",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Dairy_curr_law": {
+        "long_name": "VAT Rate for Consumption of Dairy",
+        "description": "VAT Rate relevant for consumption of Consumption of Dairy",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Beverages_curr_law": {
+        "long_name": "VAT Rate for Consumption of Beverages",
+        "description": "VAT Rate relevant for consumption of Consumption of Beverages",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Alcohol_curr_law": {
+        "long_name": "VAT Rate for Consumption of Alcohol",
+        "description": "VAT Rate relevant for consumption of Consumption of Alcohol",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Tobacco_curr_law": {
+        "long_name": "VAT Rate for Consumption of Tobacco",
+        "description": "VAT Rate relevant for consumption of Consumption of Tobacco",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Non_Consumption_curr_law": {
+        "long_name": "VAT Rate for Consumption of Other_Non_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Non_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Rent_curr_law": {
+        "long_name": "VAT Rate for Consumption of Rent",
+        "description": "VAT Rate relevant for consumption of Consumption of Rent",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Electricity_curr_law": {
+        "long_name": "VAT Rate for Consumption of Electricity",
+        "description": "VAT Rate relevant for consumption of Consumption of Electricity",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Water_curr_law": {
+        "long_name": "VAT Rate for Consumption of Water",
+        "description": "VAT Rate relevant for consumption of Consumption of Water",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Fuel_curr_law": {
+        "long_name": "VAT Rate for Consumption of Fuel",
+        "description": "VAT Rate relevant for consumption of Consumption of Fuel",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Services_curr_law": {
+        "long_name": "VAT Rate for Consumption of Other_Services",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Services",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Telecom_curr_law": {
+        "long_name": "VAT Rate for Consumption of Telecom",
+        "description": "VAT Rate relevant for consumption of Consumption of Telecom",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Soap_Cosmetics_curr_law": {
+        "long_name": "VAT Rate for Consumption of Soap_Cosmetics",
+        "description": "VAT Rate relevant for consumption of Consumption of Soap_Cosmetics",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Home_Consumption_curr_law": {
+        "long_name": "VAT Rate for Consumption of Other_Home_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Home_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Books_Newspapers_curr_law": {
+        "long_name": "VAT Rate for Consumption of Books_Newspapers",
+        "description": "VAT Rate relevant for consumption of Consumption of Books_Newspapers",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Health_curr_law": {
+        "long_name": "VAT Rate for Consumption of Health",
+        "description": "VAT Rate relevant for consumption of Consumption of Health",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Education_curr_law": {
+        "long_name": "VAT Rate for Consumption of Education",
+        "description": "VAT Rate relevant for consumption of Consumption of Education",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Transport_Services_curr_law": {
+        "long_name": "VAT Rate for Consumption of Transport_Services",
+        "description": "VAT Rate relevant for consumption of Consumption of Transport_Services",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Air_Transport_curr_law": {
+        "long_name": "VAT Rate for Consumption of Air_Transport",
+        "description": "VAT Rate relevant for consumption of Consumption of Air_Transport",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Accomodation_curr_law": {
+        "long_name": "VAT Rate for Consumption of Accomodation",
+        "description": "VAT Rate relevant for consumption of Consumption of Accomodation",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Entertainment_curr_law": {
+        "long_name": "VAT Rate for Consumption of Entertainment",
+        "description": "VAT Rate relevant for consumption of Consumption of Entertainment",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Finance_curr_law": {
+        "long_name": "VAT Rate for Consumption of Finance",
+        "description": "VAT Rate relevant for consumption of Consumption of Finance",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Clothing_Footwear_curr_law": {
+        "long_name": "VAT Rate for Consumption of Clothing_Footwear",
+        "description": "VAT Rate relevant for consumption of Consumption of Clothing_Footwear",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Furniture_curr_law": {
+        "long_name": "VAT Rate for Consumption of Furniture",
+        "description": "VAT Rate relevant for consumption of Consumption of Furniture",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Durable_Goods_curr_law": {
+        "long_name": "VAT Rate for Consumption of Durable_Goods",
+        "description": "VAT Rate relevant for consumption of Consumption of Durable_Goods",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Vehicle_Purchase_curr_law": {
+        "long_name": "VAT Rate for Consumption of Vehicle_Purchase",
+        "description": "VAT Rate relevant for consumption of Consumption of Vehicle_Purchase",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Other_Consumption_curr_law": {
+        "long_name": "VAT Rate for Consumption of Other_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Other_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.11
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_rate_Religious_Consumption_curr_law": {
+        "long_name": "VAT Rate for Consumption of Religious_Consumption",
+        "description": "VAT Rate relevant for consumption of Consumption of Religious_Consumption",
+        "itr_ref": "VAT Rules",
+        "notes": "",
+        "row_var": "AYEAR",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "",
+        "col_label": "",
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            0.0
+        ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_elasticity_consumption_threshold": {
+        "long_name": "Consumption treshold for demand elasticity",
+        "description": "Elasticity",
+        "itr_ref": "elasticity",
+        "notes": "",
+        "row_var": "Year",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "treshold",
+        "col_label": [
+            "treshold1",
+            "treshold2",
+            "treshold3"
+        ],
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            [
+                30000000,
+                65000000,
+                9e99
+            ]
+        ],
+        "range": {
+            "min": 0,
+            "max": 9e+99
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    },
+    "_elasticity_consumption_value": {
+        "long_name": "Elasticity of consunmption",
+        "description": "elasticity",
+        "itr_ref": "elasticity",
+        "notes": "",
+        "row_var": "Tax_year",
+        "row_label": [
+            "2018"
+        ],
+        "start_year": 2018,
+        "cpi_inflatable": false,
+        "cpi_inflated": false,
+        "col_var": "Consumption",
+        "col_label": [
+            "treshold1",
+            "treshold2",
+            "treshold3"
+        ],
+        "boolean_value": false,
+        "integer_value": false,
+        "value": [
+            [
+                0.5,
+                0.4,
+                0.3
+            ]
+      ],
+        "range": {
+            "min": 0,
+            "max": 1
+        },
+        "out_of_range_minmsg": "",
+        "out_of_range_maxmsg": "",
+        "out_of_range_action": "stop"
+    }
+}
